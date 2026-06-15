@@ -9,7 +9,7 @@
 #     Partial Least Squares Method
 #
 # Authors:
-#     Zhenghao She^1, Hui Zhu^1, Qian Song^2, Yao Chen^1,
+#     Zhenghao She^1, Hui Zhu^1,*, Qian Song^2, Yao Chen^1,*,
 #     Yingying Zhao^1, Huicong Chen^1, and Zhijie Qin^1
 #
 # Affiliations:
@@ -21,8 +21,8 @@
 #        Administration, Beijing, China
 #
 # Corresponding authors:
-#     Hui Zhu, huizhu@email.sdu.edu.cn
-#     Yao Chen, yaochen@sdu.edu.cn
+#     * Hui Zhu, huizhu@email.sdu.edu.cn
+#     * Yao Chen, yaochen@sdu.edu.cn
 #
 # The cutoff latitude and proton cutoff energy models implemented in this file
 # are derived from the above manuscript. If you use this model in research work
