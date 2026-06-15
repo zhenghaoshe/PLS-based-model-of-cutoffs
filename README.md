@@ -6,9 +6,22 @@ The model is associated with the manuscript:
 
 **A New Model of Cutoff Latitude for Solar Energetic Protons Based on the Partial Least Squares Method**
 
-Authors:
+**Authors:**
 
-Zhenghao She, Hui Zhu, Qian Song, Yao Chen, Yingying Zhao, Huicong Chen, and Zhijie Qin
+Zhenghao She<sup>1</sup>, Hui Zhu<sup>1,*</sup>, Qian Song<sup>2</sup>, Yao Chen<sup>1,*</sup>, Yingying Zhao<sup>1</sup>, Huicong Chen<sup>1</sup>, and Zhijie Qin<sup>1</sup>
+
+**Affiliations:**
+
+<sup>1</sup> Institute of Frontier and Interdisciplinary Science, Shandong University, Shandong, China
+
+<sup>2</sup> Key Laboratory of Space Weather, National Satellite Meteorological Center (National Center for Space Weather), China Meteorological Administration, Beijing, China
+
+**Corresponding authors:**
+
+<sup>*</sup> Hui Zhu, [huizhu@email.sdu.edu.cn](mailto:huizhu@email.sdu.edu.cn)
+
+<sup>*</sup> Yao Chen, [yaochen@sdu.edu.cn](mailto:yaochen@sdu.edu.cn)
+
 
 ## Description
 
