@@ -8,7 +8,7 @@ The model is associated with the manuscript:
 
 **Authors:**
 
-Zhenghao She<sup>1</sup>, Hui Zhu<sup>1,*</sup>, Qian Song<sup>2</sup>, Yao Chen<sup>1,*</sup>, Yingying Zhao<sup>1</sup>, Huicong Chen<sup>1</sup>, and Zhijie Qin<sup>1</sup>
+Zhenghao She<sup>1</sup>, Hui Zhu<sup>1,&#42;</sup>, Qian Song<sup>2</sup>, Yao Chen<sup>1,&#42;</sup>, Yingying Zhao<sup>1</sup>, Huicong Chen<sup>1</sup>, and Zhijie Qin<sup>1</sup>
 
 **Affiliations:**
 
@@ -18,9 +18,9 @@ Zhenghao She<sup>1</sup>, Hui Zhu<sup>1,*</sup>, Qian Song<sup>2</sup>, Yao Chen
 
 **Corresponding authors:**
 
-<sup>*</sup> Hui Zhu, [huizhu@email.sdu.edu.cn](mailto:huizhu@email.sdu.edu.cn)
+<sup>&#42;</sup> Hui Zhu, [huizhu@email.sdu.edu.cn](mailto:huizhu@email.sdu.edu.cn)
 
-<sup>*</sup> Yao Chen, [yaochen@sdu.edu.cn](mailto:yaochen@sdu.edu.cn)
+<sup>&#42;</sup> Yao Chen, [yaochen@sdu.edu.cn](mailto:yaochen@sdu.edu.cn)
 
 
 ## Description
