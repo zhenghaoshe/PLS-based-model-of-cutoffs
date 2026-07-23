@@ -2,9 +2,13 @@
 
 This repository provides Python code for a PLS-based empirical model of cutoff latitude and proton cutoff energy for solar energetic protons.
 
-The model is associated with the manuscript:
+The model is described in the following publication:
 
-**A New Model of Cutoff Latitude for Solar Energetic Protons Based on the Partial Least Squares Method**
+**She, Z., Zhu, H., Song, Q., Chen, Y., Zhao, Y., Chen, H., & Qin, Z. (2026).  
+A new model of cutoff latitude for solar energetic protons based on the partial least squares method.  
+Space Weather, 24, e2026SW005055.**
+
+DOI: https://doi.org/10.1029/2026SW005055
 
 **Authors:**
 
@@ -22,6 +26,13 @@ Zhenghao She<sup>1</sup>, Hui Zhu<sup>1,&#42;</sup>, Qian Song<sup>2</sup>, Yao 
 
 <sup>&#42;</sup> Yao Chen, [yaochen@sdu.edu.cn](mailto:yaochen@sdu.edu.cn)
 
+The archived version of the software is available from Zenodo:
+
+https://doi.org/10.5281/zenodo.21234817
+
+The source code is actively maintained at GitHub:
+
+https://github.com/zhenghaoshe/PLS-based-model-of-cutoffs
 
 ## Description
 
@@ -167,12 +178,23 @@ For cutoff latitude calculations, `proton_energy` must be positive because the m
 
 ## Citation
 
-If you use this model in research work intended for publication, please cite the manuscript associated with this model:
+If you use this model in research work intended for publication, please cite both the software archive and the associated publication.
 
-**A New Model of Cutoff Latitude for Solar Energetic Protons Based on the Partial Least Squares Method**
+### Software
 
-The final bibliographic information will be updated after the manuscript is published.
+She, Z., Zhu, H., Song, Q., Chen, Y., Zhao, Y., Chen, H., & Qin, Z. (2026).  
+PLS-based Model of Cutoffs (Version 1.0.0) [Software]. Zenodo.
 
+https://doi.org/10.5281/zenodo.21234817
+
+
+### Publication
+
+She, Z., Zhu, H., Song, Q., Chen, Y., Zhao, Y., Chen, H., & Qin, Z. (2026).  
+A new model of cutoff latitude for solar energetic protons based on the partial least squares method.  
+Space Weather, 24, e2026SW005055.
+
+https://doi.org/10.1029/2026SW005055
 ## Contact
 
 For questions, bug reports, or problems encountered when using the model, please contact:
@@ -188,8 +210,11 @@ Copyright (c) 2026 Zhenghao She, Hui Zhu, Qian Song, Yao Chen, Yingying Zhao, Hu
 
 The GitHub repository for this model is:
 
-```text
 https://github.com/zhenghaoshe/PLS-based-model-of-cutoffs
-```
 
-If the repository is hosted under a different GitHub username, please replace `zhenghaoshe` with the correct username.
+## Versioning
+
+The Zenodo DOI above refers to the archived version of the model (Version 1.0.0). 
+Future updates will be released as new versions while maintaining the same GitHub repository.
+
+For reproducibility, please cite the specific Zenodo version used in your research.
