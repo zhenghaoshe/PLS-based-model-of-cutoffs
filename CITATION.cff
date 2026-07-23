@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software in research work intended for publication, please cite the archived Zenodo version of the software and the associated Space Weather article."
 title: "PLS-based Model of Cutoffs"
-version: "1.0.1"
+version: "1.0.0"
 date-released: "2026-07-23"
 authors:
   - family-names: "She"
