@@ -3,10 +3,13 @@
 # =============================================================================
 #
 # This code implements the PLS-based cutoff latitude and proton cutoff energy
-# model developed in the following manuscript:
+# model described in the following published article:
 #
-#     A New Model of Cutoff Latitude for Solar Energetic Protons Based on the
-#     Partial Least Squares Method
+#     She, Z., Zhu, H., Song, Q., Chen, Y., Zhao, Y., Chen, H.,
+#     & Qin, Z. (2026). A new model of cutoff latitude for solar
+#     energetic protons based on the partial least squares method.
+#     Space Weather, 24, e2026SW005055.
+#     https://doi.org/10.1029/2026SW005055
 #
 # Authors:
 #     Zhenghao She^1, Hui Zhu^1,*, Qian Song^2, Yao Chen^1,*,
@@ -14,7 +17,7 @@
 #
 # Affiliations:
 #     ^1 Institute of Frontier and Interdisciplinary Science,
-#        Shandong University, Shandong, China
+#        Shandong University, Qingdao, China
 #
 #     ^2 Key Laboratory of Space Weather, National Satellite Meteorological
 #        Center (National Center for Space Weather), China Meteorological
@@ -24,10 +27,16 @@
 #     * Hui Zhu, huizhu@email.sdu.edu.cn
 #     * Yao Chen, yaochen@sdu.edu.cn
 #
-# The cutoff latitude and proton cutoff energy models implemented in this file
-# are derived from the above manuscript. If you use this model in research work
-# intended for publication, we recommend citing the manuscript. The final
-# bibliographic information should be updated after the manuscript is published.
+# Official software archive:
+#     Zenodo: https://doi.org/10.5281/zenodo.21234817
+#
+# Official development repository:
+#     GitHub: https://github.com/zhenghaoshe/PLS-based-model-of-cutoffs
+#
+# If you use this model in research work intended for publication, please cite
+# both the associated Space Weather article and the archived Zenodo version of
+# the software. For reproducibility, please cite the specific Zenodo version
+# used in your research.
 #
 # For questions, bug reports, or problems encountered when using the model,
 # please contact:
