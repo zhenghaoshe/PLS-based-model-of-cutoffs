@@ -2,7 +2,9 @@ cff-version: 1.2.0
 message: "If you use this software in research work intended for publication, please cite the archived Zenodo version of the software and the associated Space Weather article."
 title: "PLS-based Model of Cutoffs"
 version: "1.0.0"
-date-released: "2026-07-23"
+date-released: "2026-07-07"
+doi: "10.5281/zenodo.21234817"
+url: "https://doi.org/10.5281/zenodo.21234817"
 authors:
   - family-names: "She"
     given-names: "Zhenghao"
@@ -19,14 +21,12 @@ authors:
   - family-names: "Qin"
     given-names: "Zhijie"
 repository-code: "https://github.com/zhenghaoshe/PLS-based-model-of-cutoffs"
-abstract: "Python implementation of the PLS-based cutoff latitude and proton cutoff energy model for solar energetic protons. The model includes divisional and continuous MLT formulations."
+abstract: "Python implementation of the PLS-based cutoff latitude and cutoff energy model for solar energetic protons. The model includes divisional and continuous MLT formulations."
 keywords:
   - "solar energetic protons"
   - "cutoff latitude"
   - "cutoff energy"
-  - "cutoff rigidity"
   - "partial least squares"
-  - "space weather"
 preferred-citation:
   type: article
   title: "A New Model of Cutoff Latitude for Solar Energetic Protons Based on the Partial Least Squares Method"
